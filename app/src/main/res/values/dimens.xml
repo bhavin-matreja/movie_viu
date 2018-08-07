@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Login Activity-->
+    <dimen name="activity_login_paddingTop">40dp</dimen>
+    <dimen name="tv_login_text_size">32sp</dimen>
+    <dimen name="tv_loginMsg_text_size">16sp</dimen>
+    <dimen name="lin_lay_login_marginBottom">112dp</dimen>
+    <dimen name="et_email_layout_width">264dp</dimen>
+    <dimen name="et_email_layout_height">48dp</dimen>
+    <dimen name="btn_login_marginTop">40dp</dimen>
+    <dimen name="tv_loginMsg_marginTop">16dp</dimen>
+    <!--Login Activity-->
+
+    <!--Movies List Activity-->
+    <dimen name="tv_movies_text_size">32sp</dimen>
+    <dimen name="tv_movies_marginLeft">20dp</dimen>
+    <dimen name="tv_movies_marginTop">20dp</dimen>
+    <dimen name="rv_moviesList_marginLeft">8dp</dimen>
+    <dimen name="rv_moviesList_marginTop">160dp</dimen>
+    <!--Movies List Activity-->
+
+    <!--Movie Item Layout-->
+    <dimen name="iv_moviePoster_marginRight">8dp</dimen>
+    <dimen name="iv_moviePoster_layoutWidth">133dp</dimen>
+    <dimen name="iv_moviePoster_layoutHeight">200dp</dimen>
+    <dimen name="tv_movieItemName_marginTop">8dp</dimen>
+    <dimen name="tv_movieItemName_text_size">12sp</dimen>
+    <dimen name="tv_movieItemName_layout_width">133dp</dimen>
+    <!--Movie Item Layout-->
+
+    <!--Movie Detail Activity-->
+    <dimen name="iv_moviePoster_marginTop">40dp</dimen>
+    <dimen name="iv_moviePoster_layout_width">133dp</dimen>
+    <dimen name="iv_moviePoster_layout_height">200dp</dimen>
+    <dimen name="tv_movieName_marginTop">40dp</dimen>
+    <dimen name="tv_movie_name_text_size">36sp</dimen>
+    <!--Movie Detail Activity-->
+
+
+</resources>
